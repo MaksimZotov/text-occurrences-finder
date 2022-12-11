@@ -1,6 +1,13 @@
 # Text Occurrences Finder
 Сервис для поиска вхождений одного текста в другой текст
 
+# Тесты
+Ветка `main`:
+[![Tests](https://github.com/MaksimZotov/text-occurrences-finder/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/MaksimZotov/text-occurrences-finder/actions/workflows/tests.yml)
+
+Ветка `develop`:
+[![Tests](https://github.com/MaksimZotov/text-occurrences-finder/actions/workflows/tests.yml/badge.svg?branch=develop)](https://github.com/MaksimZotov/text-occurrences-finder/actions/workflows/tests.yml)
+
 # Запуск сервиса в Docker-контейнере
 
 #### 1. Клонировать репозиторий
